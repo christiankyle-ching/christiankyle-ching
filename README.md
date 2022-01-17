@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Kyle! 👋
+I'm a hobbyist developer focused in Web or App development. Doing random projects such as websites, apps, or even small scripts that may help you.
 
-<!--
-**christiankyle-ching/christiankyle-ching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
+I'm open for new opportunities! Just [send me an e-mail](mailto:ckching.dev@gmail.com).
 
-Here are some ideas to get you started:
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiankyle-ching&hide_rank=true&hide_title=false&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christiankyle-ching&layout=compact&hide=shaderlab,hlsl,html)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top & Favorite Repositories
+[![Digital Wellbeing](https://github-readme-stats.vercel.app/api/pin/?username=christiankyle-ching&repo=DigitalWellbeingForWindows)](https://github.com/christiankyle-ching/DigitalWellbeingForWindows/)
+<br/>
+[![Bytes of Past](https://github-readme-stats.vercel.app/api/pin/?username=christiankyle-ching&repo=Prototype--Bytes-of-Past)](https://github.com/christiankyle-ching/Prototype--Bytes-of-Past)
+<br/>
+[![Useful Scripts](https://github-readme-stats.vercel.app/api/pin/?username=christiankyle-ching&repo=useful-scripts)](https://github.com/christiankyle-ching/useful-scripts/)
