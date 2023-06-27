@@ -1,5 +1,7 @@
 # Hi, I'm Kyle! 👋
-I'm a hobbyist developer focused in Web or App development. Doing random projects such as websites, apps, or even small scripts that may help you.
+I'm currently a Full-Stack Software Engineer at [Dynameyes](https://www.dynameyes.dev/), building web apps using VueJS (TypeScript) and Django ([GraphQL using Graphene](https://docs.graphene-python.org/)).
+
+I'm also a hobbyist developer, doing random personal projects such as websites, apps, or even small scripts that may help you.
 
 ## Portfolio
 
