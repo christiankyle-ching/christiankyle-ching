@@ -9,3 +9,5 @@ See my portfolio of my notable projects at https://ckcdev.vercel.app/
 
 ## Contact
 I'm open for new opportunities! Just [send me an e-mail](mailto:ckching.dev@gmail.com).
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L2OU9W8)
